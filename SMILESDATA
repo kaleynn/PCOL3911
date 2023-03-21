@@ -1,4 +1,4 @@
-Name, SMILES, Expr
+Name SMILES Expr
 1	CSP(=O)(c1ccccc1)c1ccccc1	2.34
 2	CCSP(=O)(c1ccccc1)c1ccccc1	2.69
 3	CCCSP(=O)(c1ccccc1)c1ccccc1	3.08
